@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Academic</title><link>https://noahrhodes.github.io/event/</link><atom:link href="https://noahrhodes.github.io/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><image><url>https://noahrhodes.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Recent &amp; Upcoming Talks</title><link>https://noahrhodes.github.io/event/</link></image><item><title>Balancing Wildfire Risk and Power Outages</title><link>https://noahrhodes.github.io/talk/balancing-wildfire-risk-and-power-outages/</link><pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate><guid>https://noahrhodes.github.io/talk/balancing-wildfire-risk-and-power-outages/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>PowerModelsRestoration.jl: An Open-Source Framework for Power Network Restoration</title><link>https://noahrhodes.github.io/talk/powermodelsrestoration.jl-an-open-source-framework-for-power-network-restoration/</link><pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate><guid>https://noahrhodes.github.io/talk/powermodelsrestoration.jl-an-open-source-framework-for-power-network-restoration/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item></channel></rss>

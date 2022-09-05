@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2022-01-07'
     description: ''
-    organization: 55th Hawaii International Confrences on System Sciences
+    organization: 55th Hawaii International Confrence on System Sciences
     organization_url: https://engineering.wisc.edu/blog/roald-wins-best-energy-paper-at-hicss-2022/
     title: Best Paper Award
     url: ''

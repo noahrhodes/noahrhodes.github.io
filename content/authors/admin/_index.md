@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: My research interest include modeling high-risk events in power systems and algorithm design for network topology optimization.
+bio: My research interests include modeling high-risk events in power systems and algorithm design for network topology optimization.
 
 # Interests to show in About widget
 interests:
@@ -74,7 +74,7 @@ highlight_name: true
 <!-- As a graduate student in the WISPO lab at the University of Wisconsin-Madison, I spend much of my time in computer labs writing code or writing reports.  My hobbies keep me outside year round to counterbalance research with spending time outdoors.  The spring and fall are mostly for disc golf and rock climbing, the winter is for cross-country skiing, and the summer is dominated by my role as a captain for an Ultimate Frissbee team in the MUFA league.  Biking is of course a year-round sport in Madison, Wisconsin. -->
 
 
-As a graduate student in the WISPO lab at the University of Wisconsin-Madison, I spend much of my time in computer labs writing code or reports.  To balance my commitment to my research, I enjoy outdoors activities throughout the year.  The spring and fall are mostly for disc golf and rock climbing, the winter is for cross-country skiing, and the summer is dominated by my role as a captain for an Ultimate Frisbee team in the MUFA league.  Biking is of course a year-round sport in Madison, Wisconsin.
+As a graduate student in the WISPO lab at the University of Wisconsin-Madison, I spend much of my time in computer labs writing code or reports.  To balance my commitment to my research, I enjoy outdoor activities throughout the year.  The spring and fall are mostly for disc golf and rock climbing, the winter is for cross-country skiing, and the summer is dominated by my role as a captain for an Ultimate Frisbee team in the MUFA league.  Biking is, of course, a year-round sport in Madison, Wisconsin.
 
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->

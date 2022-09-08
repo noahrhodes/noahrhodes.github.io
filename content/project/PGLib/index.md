@@ -1,6 +1,6 @@
 ---
 title: PGLib.jl
-summary: Data library in `Julia` for the easy access to the [Optimal Power Flow benchmark library](https://github.com/power-grid-lib/pglib-opf) provided by the [IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms](https://power-grid-lib.github.io/).
+summary: Data library in `Julia` for easy access to the [Optimal Power Flow benchmark library](https://github.com/power-grid-lib/pglib-opf) provided by the [IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms](https://power-grid-lib.github.io/).
 
 tags:
   - Dataset

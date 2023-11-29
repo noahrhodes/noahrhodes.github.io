@@ -1,15 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Role of Distributed Energy Resources in Distribution System Restoration
+title: Co-optimization of Power Line Shutoff and Restoration Under High Wildfire Ignition
+  Risk
 subtitle: ''
 summary: ''
 authors:
 - Noah Rhodes
-- Line Roald
+- Line A Roald
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2023-01-01'
 lastmod: 2023-11-29T11:07:57-06:00
 featured: false
 draft: false
@@ -28,12 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-11-29T17:10:22.080008Z'
+publishDate: '2023-11-29T17:10:21.695308Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*55th Hawaii International Conference on System Sciences*'
-links:
-- name: URL
-  url: http://hdl.handle.net/10125/79755
+publication: '*2023 IEEE Belgrade PowerTech*'
+doi: 10.1109/PowerTech55446.2023.10202865
 ---

@@ -1,18 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Recursive Restoration Refinement: A Fast Heuristic for Near-Optimal Restoration
-  Prioritization in Power Systems'
+title: Security Constrained Optimal Power Shutoff
 subtitle: ''
 summary: ''
 authors:
-- admin
+- Noah Rhodes
 - Carleton Coffrin
 - Line Roald
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-09-03T11:22:48-05:00
+date: '2023-01-01'
+lastmod: 2023-11-29T11:07:58-06:00
 featured: false
 draft: false
 
@@ -29,14 +28,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-# - PMR
-# - PowerPlots
-# - PGLib
-
-publishDate: '2022-09-03T16:37:32.450732Z'
+projects: []
+publishDate: '2023-11-29T17:10:22.461830Z'
 publication_types:
-- '1'
+- '3'
 abstract: ''
-publication: '*Power Systems Computational Conference*'
+publication: ''
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2304.13778
 ---

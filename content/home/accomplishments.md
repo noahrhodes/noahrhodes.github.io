@@ -25,11 +25,27 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ''
+    date_start: '2023-06-28'
+    description: ''
+    organization: IEEE Power Tech 2023
+    organization_url: https://engineering.wisc.edu/blog/roald-wins-best-energy-paper-at-hicss-2022/
+    title: Best Paper Award
+    url: ''
+  - certificate_url:
+    date_end: ''
     date_start: '2022-01-07'
     description: ''
     organization: 55th Hawaii International Conference on System Sciences
     organization_url: https://engineering.wisc.edu/blog/roald-wins-best-energy-paper-at-hicss-2022/
     title: Best Paper Award
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2023-01-16'
+    description: ''
+    organization: 2023 Grid Science Winter School and Conference
+    organization_url: 'https://web.cvent.com/event/e157468f-6e59-4b53-8a23-3874fe4ed31e/summary'
+    title: Best Poster Award
     url: ''
   - certificate_url:
     date_end: ''
@@ -39,14 +55,14 @@ item:
     organization_url:
     title: Wisconsin Distinguished Graduate Fellowship
     url: ''
-  - certificate_url:
-    date_end: ''
-    date_start: '2019-05-01'
-    description: ''
-    organization: University of Wisconsin-Madison
-    organization_url:
-    title: Grainger Power Engineering Award
-    url: ''
+  # - certificate_url:
+  #   date_end: ''
+  #   date_start: '2019-05-01'
+  #   description: ''
+  #   organization: University of Wisconsin-Madison
+  #   organization_url:
+  #   title: Grainger Power Engineering Award
+  #   url: ''
   - certificate_url:
     date_end: ''
     date_start: '2016-11-15'

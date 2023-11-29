@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Market Optimization Engineer
+    company: 'NextEra Energy Analytics'
+    company_url: 'https://www.nexteraanalytics.com/'
+    company_logo: nextera
+    location: Minnesota
+    date_start: '2023-05-01'
+    date_end: '2023-08-31'
+    description: |2-
+        - Study price volatility in ERCOT and SPP markets
+        - Model utility operations of customer DERs to reduce price exposure
+        - Develop software package to identify potential partnerships with customer DERs
+
   - title: Research Assistant
     company: 'University of Wisconsin-Madison'
     company_url: 'https://www.wisc.edu'
@@ -34,14 +46,13 @@ experience:
       - Research focus in modeling decisions for topology change, such as grid restoration and public saftey power shutoffs
       - Projects include PowerModelsRestoration.jl, PowerModelsWildfire.jl, PowerPlots.jl, and PGLib.jl
 
-
   - title: Research Intern
     company: Los Alamos National Laboratory
     company_url: 'https://www.lanl.gov/'
     company_logo: lanl
     location: New Mexico
     date_start: '2019-05-01'
-    date_end: ''
+    date_end: '2022-08-31'
     description: |2-
         - Develop optimization framework for power grid restoration
         - Create algorithm heuristics for grid restoration planning
